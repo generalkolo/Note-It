@@ -8,7 +8,7 @@
     tools:context=".NewNote">
 
     <EditText
-        android:id="@+id/note"
+        android:id="@+id/notes"
         android:layout_width="0dp"
         android:layout_height="266dp"
         android:layout_marginEnd="8dp"

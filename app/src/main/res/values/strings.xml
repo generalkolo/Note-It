@@ -6,5 +6,7 @@
     <string name="note_title">Note Title</string>
     <string name="action_logout">Logout</string>
     <string name="enter_authors_name">Enter Authors name</string>
-    <string name="enter_note_title">Enter note title</string>
+    <string name="enter_note_title">Enter notes title</string>
+    <string name="title_activity_viewnotes">Author Notes</string>
+    <string name="action_delete">Delete</string>
 </resources>
